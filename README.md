@@ -33,7 +33,7 @@ To create awareness among rural students about:
 ## 📸 Project Activities
 
 ### Interaction with Students
-- ![Session](images/img2.jpeg)
+ ![Session](images/img2.jpeg)
 
 ### Career Awareness Session
-- ![Awareness](images/img3.jpeg)
+ ![Awareness](images/img3.jpeg)
