@@ -1,0 +1,31 @@
+# Community Service Project
+## Career Awareness and Goal Setting
+
+This project was conducted as part of the B.Tech CSE curriculum at 
+Bonam Venkata Chalamayya Engineering College.
+
+## 📍 Project Location
+ZPHS Komaragiripatnam, East Godavari
+
+## 📅 Duration
+Jan 2026 – March 2026
+
+## 🎯 Objective
+To create awareness among rural students about:
+- Importance of education
+- Career opportunities
+- Goal setting
+
+## 🛠 Activities Conducted
+- Student interaction sessions
+- Career awareness programs
+- Goal setting guidance
+- Time management training
+
+## 📊 Outcomes
+- Improved student awareness
+- Increased confidence
+- Better career clarity
+
+## 📄 Project Report
+[Click here to view full report](./CSP%20project.pdf)
