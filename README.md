@@ -28,4 +28,4 @@ To create awareness among rural students about:
 - Better career clarity
 
 ## 📄 Project Report
-[Click here to view full report](./CSP%20project.pdf)
+[Click here to view full report](./Career-Awareness-CSP-Report.pdf)
