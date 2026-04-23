@@ -31,4 +31,5 @@ To create awareness among rural students about:
 [Click here to view full report](./Career-Awareness-CSP-Report.pdf)
 
 ## 📸 Project Activities
-![Session](images/img2.jpg)
+- ![Session](images/img2.jpeg)
+- ![Awareness](images/img3.jpeg)
